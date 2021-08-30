@@ -1,0 +1,11 @@
+Apartment
+Villa
+Chalet
+Townhouse
+Twin House
+Duplex
+Penthouse
+iVilla
+Hotel Apartment
+Compound
+Bulk Sale Unit
